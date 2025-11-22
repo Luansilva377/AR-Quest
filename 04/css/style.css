@@ -1,6 +1,4 @@
-/* =======================
-   RESET BÁSICO
-======================= */
+
 * {
     margin: 0;
     padding: 0;
@@ -172,6 +170,7 @@ body {
     border-radius: 10px;
     font-weight: 600;
     cursor: pointer;
+    color: red;
 }
 
 .correta {
