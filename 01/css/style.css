@@ -172,6 +172,7 @@ body {
     border-radius: 10px;
     font-weight: 600;
     cursor: pointer;
+    color: red;
 }
 
 .correta {
